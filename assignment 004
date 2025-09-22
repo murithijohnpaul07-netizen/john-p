@@ -1,0 +1,29 @@
+/*
+Name  :John paul murithi
+Reg No:CT101/G/26544/25
+Date  :12/09/2025
+*/
+
+#include<stdio.h>
+int main()
+{
+   float height;
+   double bank balance;
+   long long phone number;
+
+        printf("Enter your height:\n");
+        scanf("%f", &height);
+
+        printf("Enter your bank balance:\n");
+        scanf("%lf", &bank balance);
+
+        printf("Enter your phone number:\n");
+        scanf("%lld", &phone number);
+
+        printf("your height:%.2f\n",height);
+        printf("your bank balance:%.2f\n",bank balance);
+        printf("your phone number:%lld\n",phone number);
+return 0;
+}
+
+
