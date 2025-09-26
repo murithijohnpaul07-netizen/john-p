@@ -2,6 +2,7 @@
 Name  :John paul murithi
 Reg No:CT101/G/26544/25
 Date  :21/09/2025
+desciption:Volume_surfaceArea_calculation
 */
 
 #include<stdio.h> 
@@ -26,4 +27,5 @@ int main ()
 	printf("Surface area of the cylinder:%2f\n",Surface area);
 	
 	return 0
+
 }
