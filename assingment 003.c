@@ -2,6 +2,7 @@
 Name  :John paul murithi
 Reg No:CT101/G/26544/25
 Date  :12/09/2025
+description:Unites_semister1
 */
 
 #include<stdio.h>
@@ -17,4 +18,5 @@ int main()
 	printf("UCU 2106 Communication and information literacy skills\n");
 
 	return 0;
+
 }
