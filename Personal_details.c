@@ -2,6 +2,7 @@
 Name  :John paul murithi
 Reg No:CT101/G/26544/25
 Date  :12/09/2025
+desription:Personal_details
 */
 
 #include<stdio.h>
