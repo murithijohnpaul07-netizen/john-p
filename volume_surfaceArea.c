@@ -26,6 +26,7 @@ int main ()
 	printf("Volume of the cylinder:%2f\n",volume);
 	printf("Surface area of the cylinder:%2f\n",Surface area);
 	
-	return 0
+	return 0;
 
 }
+
