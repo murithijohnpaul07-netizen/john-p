@@ -15,12 +15,13 @@ int main()
 	scanf("%d", &age);
 	
 	printf("Enter your income:");
-	scanf("%lf", income);
+	scanf("%lf", &income);
 	
     if(age>=21 &income>=21000)
 	{printf("congratulation,you qualifly for a loan.\n");} else 
 	{printf("unfortunately,we are unable to offer you a loan at this time.\n");}
 	
-	retern 0
+	retern 0;
 
 }
+
