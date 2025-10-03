@@ -21,7 +21,8 @@ int main()
 	{printf("congratulation,you qualifly for a loan.\n");} else 
 	{printf("unfortunately,we are unable to offer you a loan at this time.\n");}
 	
-	retern 0;
+	return 0;
 
 }
+
 
