@@ -9,21 +9,21 @@ desription:Personal_details
 int main()
 {
    float height;
-   double bank balance;
-   long long phone number;
+   double bank_balance;
+   long long phone_number;
 
         printf("Enter your height:\n");
         scanf("%f", &height);
 
         printf("Enter your bank balance:\n");
-        scanf("%lf", &bank balance);
+        scanf("%lf", &bank_balance);
 
         printf("Enter your phone number:\n");
-        scanf("%lld", &phone number);
+        scanf("%lld", &phone_number);
 
         printf("your height:%.2f\n",height);
-        printf("your bank balance:%.2f\n",bank balance);
-        printf("your phone number:%lld\n",phone number);
+        printf("your bank_balance:%.2f\n",bank_balance);
+        printf("your phone_number:%lld\n",phone _number);
 return 0;
 }
 
